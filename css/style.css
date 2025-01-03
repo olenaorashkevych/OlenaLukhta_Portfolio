@@ -151,7 +151,7 @@ ul {
 .latest-work .project {
     flex: 1 0 24%;
     max-width: 384px;
-
+    min-width: 300px;
 }
 
 .latest-work .img-link {
